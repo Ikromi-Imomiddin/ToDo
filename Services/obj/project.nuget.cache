@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "94OE51TxYSeZ9s5MjQykqow4t1rpy0rPuTvxFeaP3bWqCXLbHotkqpeZbi+tzjQ54YutwhHxVlsyDCe8+uJujQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\C#\\Lessons\\17th Lesson\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.2\\microsoft.extensions.logging.abstractions.6.0.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\npgsql\\7.0.0-rc.1\\npgsql.7.0.0-rc.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
